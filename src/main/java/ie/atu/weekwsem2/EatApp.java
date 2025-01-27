@@ -15,7 +15,7 @@ public class EatApp {
         Fries garlic = new Fries("Garlic Fries",4.99,"You wont regret it!");
         Dessert cheesecake = new Dessert("Oreo Cheesecake",6.50,"Taste amazing!");
 
-        //list all of the food items like burgers, pizzas fries, etc
+        //list all the food items like burgers, pizzas fries, etc
         items.add(cheesBurger);
         items.add(Veggie);
         items.add(chicken);
